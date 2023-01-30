@@ -32,7 +32,7 @@ Bu hafta reducer yaklaşımını incelediniz. Bu projede bugün öğrendiklerimi
 - [ ] `TotalDisplay` bileşeni bir değer alır ve bu değeri stillenmiş bir textarea'da gösterir. BU BİLEŞENİ DEĞİŞTİRMENİZE GEREK YOK.
 - [ ] `CalcButton` bileşeni bir `onClick` metodu ve bir değer alır, bu değeri görüntüler ve `onClick` metodunu ui butonuna ekler. BU BİLEŞENİ DEĞİŞTİRMENİZE GEREK YOK.
 - [ ] App.js içine, useReducer hookunu import edin, uygulamamızın reducerı ve initialState nesnesi buradan gelecek.
-- [ ] Uygulama stateine ve gönderme fonksiyonuna erişmek için useReducer hookunu kullanın.
+- [x] Uygulama stateine ve gönderme fonksiyonuna erişmek için useReducer hookunu kullanın.
 
 #### State'i UI'de görüntülemek.
 
